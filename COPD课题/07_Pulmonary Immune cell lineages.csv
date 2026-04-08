@@ -1,0 +1,15 @@
+﻿,,,,
+Cell Lineages,Canonical Markers,IPF specific markers/alterations,COPD specific markers/alterations,Ref.
+"Alveolar Macrophages, AM)","MARCO, MRC1, CD68, CD163, FABP4, PPARG","Profibrotic subset/ SPP1+：high expresseion SPP1, LPL, MMP9, CTSK, SPARC, CSF1, APOE、TREM2, CD9, CD36; Activation of ECM remodeling and cholesterol metabolism.","Metallothionein-high subpopulation: MT1G, MT1X, MT2A, HMOX1, MT1E; enhanced oxidative stress and inflammation.","PMID:32832599, 35078977, 38717443"
+Interstitial Macrophages,"CD163, MRC1, FPR3, LYVE1",Decreased in number; partially transitioning toward a profibrotic phenotype,"Mild changes in cell numbers; modest up-regulation of inflammatory genes (e.g., CXCLs).","PMID:32832599, 35078977"
+Classical Monocytes,"CD14, S100A8, S100A9, VCAN, CCR2","Significantly increased (especially in progressive IPF); enhanced recruitment associated with CCL7, CCL18, and CCL22.",Increased; high expression of inflammatory chemokines.,"PMID: 32832599, 38717443, 35078977"
+"Dendritic Cells, including cDC1/cDC2/Langerhans","CLEC9A (cDC1), CLEC10A/CD1C (cDC2), CD207 (Langerhans)",Increased proportion of Langerhans DCs; enhanced antigen presentation and IFN-γ signaling.,Mild alterations; activation of inflammatory signaling in specific subpopulations.,"PMID:32832599, 35078977"
+"CD4+ T cells
+(including Th1/Th17/Treg)","CD3D, CD4, IL7R, FOXP3 (Treg)",Increased Tregs (progressive IPF); enhanced IFN-γ response and TCR activation.,Predominantly characterized by changes in memory T cells; expansion of inflammation-associated subpopulations.,"PMID: 32832599, 37529986"
+"CD8+ T cells
+(including TRM / Effector Memory)","CD3D, CD8A, CD8B, GZMA, PRF1","Expansion of Resident Memory T (TRM) cells; up-regulation of IFN-γ and TCR signaling (CD2, LCK, BATF).",Expansion of cytotoxic subpopulations; enhanced smoking-related inflammation.,"PMID:32832599, 35078977"
+B cells / Plasma cells,"MS4A1/CD20 (B), IGHG4、IGHG1 (Plasma), CD79A",Mild increase in plasma cells; up-regulation of genes related to antibody production.,Increased B cell infiltration; associated with chronic inflammation.,"PMID:32832599, 35078977"
+"NK cells
+(Natural Killer cells)","NCAM1/CD56, KLRD1, GNLY, PRF1, GZMB",Enhanced activation; up-regulation of IFN-γ signaling.,Mild alterations; up-regulation of specific cytotoxic genes.,"PMID:32832599, 35078977"
+Mast cells,"TPSAB1/TPSB2, CPA3, KIT",Increased in number; involved in the fibrotic microenvironment.,Significantly increased; highly correlated with COPD pathology; enhanced release of inflammatory mediators.,"PMID:32832599, 35078977, 38369875"
+Neutrophils,"S100A8, S100A9, FCGR3B, CSF3R",Increased in late-stage disease or during acute exacerbations.,Increased (especially during acute exacerbations); up-regulation of NETosis-related genes.,"PMID:32832599, 35078977"

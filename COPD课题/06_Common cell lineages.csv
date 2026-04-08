@@ -1,0 +1,17 @@
+﻿,,,,,
+Cell Lineages,Canonical Markers,IPF specific markers/alterations,COPD specific markers/alterations,Ref.,
+AT2 cells,"SFTPC, SFTPB, NAPSA, LPCAT1, SLC34A2, ABCA3","Decreased in number; partially acquiring bronchial signatures (MUC5B, SOX2)","AT2-B subset (HHIP↑); down-regulation of metabolic and antioxidant genes (NDUFs, SOD3).","PMID: 32832599, 35078977, 27942595",
+AT1 cells,"AGER, HOPX, AQP5, PDPN, CAV1, CLIC5",Elevated AT1 markers in intermediate cells; co-expression with airway markers.,Mild alterations; modest up-regulation of stress and inflammatory genes.,"PMID: 32832599, 35078977",
+Basal Cells,"TP63, KRT5, KRT14, KRT15, ITGB6",atypical basal-like cells：KRT17↑、VIM、CDH2、FN1、COL1A1、TNC、MMP7、HMGA2（EMT/ senscence）,A minor population of atypical basal-like cells; absence of typical senescence features,PMID: 32832599,
+Club cells,"SCGB1A1, SCGB3A2, SCGB3A1",partially transform into goblet；SCGB1A1 co-expressed with MUC5B,Relatively stable SCGB1A1 expression; up-regulation of oxidative stress genes.,"PMID: 32832599, 35078977",
+Goblet cells,"MUC5AC, MUC5B, SPDEF, PIGR, AQP3",Incresead in number；MUC5B↑、MMP7↑,Significant hyperplasia; predominantly characterized by high expression of MUC5AC and MUC5B.,"PMID: 32832599, 35078977",
+Cilitated cells,"FOXJ1, DNAH5, TPPP3",Increased ratio；partially de-differentiation,Relatively stable; modest enhancement of inflammatory signaling.,"PMID: 32832599, 35078977",
+Pulmonary Fibroblast,"COL1A1, COL3A1, DCN, PDGFRA, VIM, CD34",HAS1/2、CXCL14↑; Enhanced invasive capacity,Mild alterations in ECM remodeling genes.,PMID: 32832599,
+Myofibroblast,"ACTA2, MYLK, MYH11, ITGA8, PDGFRB",Significantly enriched; high expression of COL1A1 and ACTA2.,Less pronounced activation compared to IPF.,PMID: 32832599,
+Alveolar Macrophage,"MARCO, MRC1, CD68, CD163",Profibrotic subpopulation: SPP1、MMP9、CTSK、SPARC↑,Metallothionein-high subpopulation：MT1G/X/E、HMOX1↑；THBS1↑,"PMID: 32832599, 35078977, 38717443",
+capillary endothelial,"PRX, FCN3 (gCap), CA4 (aerocytes), VWF, PECAM1",Ectopic expansion of perivenular endothelial cells：COL15A1↑,gCap/aerocytes：CX3CL1、CXCL12↑；Down-regulation of regenerative genes,"PMID: 32832599, 35078977",
+"PNEC
+(Pulmonary Neuroendocrine Cells)","ASCL1, CHGA, CHGB, CALCA (CGRP), GRP, INSM1, NEUROD1",Proportions are largely preserved or slightly increased (overall increase in airway epithelium); potentially involved in neuroinflammation; rare abnormal subpopulations.,Frequent hyperplasia;  elevated OR2W1(chemoreceptor); associated with airway hyperresponsiveness (AHR).,"PMID: 32832599, 35078977",
+Pulmonary ionocytes,"FOXI1, CFTR(highly expressed), ASCL3, BSND, ATP6V1B1, CLCNKA, ATP6V0 family","Rare (<1%) and preserved within the airway epithelium; CFTR expression may be modulated by the fibrotic microenvironment; no significant atypical subpopulations.
+","Rare, with stable proportions; potentially involved in mucus/ion transport imbalance; modest down-regulation of CFTR-related genes.","PMID:30069044, 32832599",
+Tuft cells,"POU2F3, GNAT3, TRPM5, IL25, DCLK1","Rare, with no significant change in proportion; potentially involved in chemosensing and IL-25 signaling.","Rare, with minor alterations; modest up-regulation of specific inflammatory and chemosensory genes.",PMID: 32832599,

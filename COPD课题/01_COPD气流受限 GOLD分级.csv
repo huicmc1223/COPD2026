@@ -1,0 +1,17 @@
+﻿,,,,,,
+GOLD 分级,严重程度,肺功能标准（post-BD FEV1 % predicted）,主要标志事件 / 临床特点,,,
+GOLD 1,Mild（轻度）,≥ 80%,症状轻微或无症状；气流受限轻；早期筛查关键；可无明显生活质量下降,"早期（Gold 1-2)
+
+小气道功能障碍、Club细胞损伤、黏液高分泌开始；CC16下降",,
+GOLD 2,Moderate（中度）,50% ≤ FEV1 < 80%,呼吸困难开始明显；活动后气促；常出现慢性咳嗽、咳痰；急性加重风险开始增加,,"中期(Gold 2-3)
+
+反复急性加重、肺气肿进展、共病出现（心血管、代谢等）",
+GOLD 3,Severe（重度）,30% ≤ FEV1 < 50%,明显气促、活动受限；频繁急性加重；生活质量显著下降；开始出现低氧血症、肺心病风险,,,"晚期(Gold 3-4)
+
+慢性呼吸衰竭、肺心病、反复住院、肌肉消耗、死亡风险显著升高"
+GOLD 4,Very Severe（极重度）,< 30%,严重呼吸困难、静息气促；慢性呼吸衰竭；反复住院；肺动脉高压、右心衰竭；高死亡风险,,,
+,,,,,,
+References,,,,,,
+"1. Global Initiative for Chronic Obstructive Lung Disease (GOLD). Global Strategy for the Diagnosis, Management, and Prevention of COPD: 2026 Report.
+2. GOLD Pocket Guide 2026.
+3. Vogelmeier CF, et al. Key changes in GOLD 2026. Am J Respir Crit Care Med, 2025–2026",,,,,,

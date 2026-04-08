@@ -1,0 +1,36 @@
+﻿常见富集通路总结,,,,,,
+排名,KEGG 通路（hsa ID）,主要生物学意义,代表基因示例,常见富集程度,,
+1,ECM-receptor interaction (hsa04512),细胞外基质沉积、纤维化核心,"COL1A1, COL3A1, ITGA, FN1, SPP1",★★★★★,IPF,
+2,Focal adhesion (hsa04510),成纤维细胞黏附、肌成纤维细胞激活,"ACTA2, ITGB, PDGFRA, COLs",★★★★★,IPF,
+3,PI3K-Akt signaling (hsa04151),细胞存活、增殖、纤维化促进,"SPP1, TGFB, PIK3",★★★★☆,IPF/COPD,
+4,TGF-β signaling (hsa04350),上皮-间质转化（EMT）、纤维化主驱动,"TGFB1, SMAD, MMPs",★★★★☆,IPF,
+5,Protein digestion and absorption (hsa04974),胶原代谢、ECM 重塑,"COLs, MMP7, MMP9",★★★★,IPF,
+6,MAPK signaling (hsa04010),炎症、增殖,"MAPK, ERK",★★★☆,IPF/COPD,
+7,Ferroptosis (hsa04216),铁死亡（TMEM164 相关）,"GPX4, ACSL4, TFRC",★★★☆（新兴）,IPF/COPD,
+8,Lysosome / Autophagy,自噬-铁死亡轴,"ATG5, LAMP",★★★,IPF,
+9,Cytokine-cytokine receptor interaction (hsa04060),慢性炎症、免疫细胞募集,"IL6, CXCLs, CCLs, TNF",★★★★★,COPD,
+10,Chemokine signaling (hsa04062),炎症细胞趋化,"CXCR, CCR",★★★★★,COPD,
+11,NF-κB signaling (hsa04064),炎症转录因子激活,"NFKB, RELA",★★★★☆,COPD,
+12,Toll-like receptor signaling (hsa04620),吸烟诱导的固有免疫激活,"TLR2/4, MYD88",★★★★,COPD,
+14,Oxidative phosphorylation / HIF-1,线粒体功能障碍、缺氧,"NDUF, COX",★★★,COPD,
+,,,,,,
+,,,,,,
+上皮细胞命运可塑性角度的通路分析,,,,,,
+No.,模块,通路名称,核心分子/标志基因,主要功能,对上皮命运的影响,机制定位
+1,命运重编程核心轴,TGF-β signaling,"TGFB1, SMAD2/3, CTGF, SERPINE1",诱导纤维化、EMT,抑制AT2→AT1分化，命运锁定,命运锁死开关
+2,,Wnt/β-catenin,"CTNNB1, AXIN2, LGR5",干细胞维持/再生,促进增殖但阻断终末分化,再生失控
+3,,Notch signaling,"NOTCH1, JAG1, HES1",抑制分化,维持KRT8⁺过渡态,分化抑制器
+4,,Hippo-YAP/TAZ,"YAP, TAZ (WWTR1), TEAD",机械应力响应,ECM硬化→分化受阻,力学驱动命运异常
+5,损伤/应激响应,p53 / DNA damage,"TP53, CDKN1A (p21)",细胞周期阻滞/衰老,促进异常过渡态形成,损伤触发器
+6,,ER stress / UPR,"ATF4, CHOP, XBP1",蛋白折叠应激,诱导错误分化/凋亡,错误修复信号
+7,,氧化应激（ROS）,"NRF2, KEAP1",抗氧化调控,干扰分化潜能,损伤放大器
+,炎症/免疫调控,NF-κB,"RELA, NFKB1",炎症维持,持续激活上皮异常状态,慢性炎症维持
+,,IL-6 / JAK-STAT3,"IL6, STAT3",炎症+再生调控,促进去分化与纤维化,命运放大器
+,,TNF signaling,"TNF, TNFRSF1A",免疫反应,与巨噬细胞形成正反馈,炎症反馈环
+,代谢重编程,糖酵解增强,"HK2, LDHA, PKM2",能量代谢重编程,支持去分化/异常增殖,代谢驱动命运改变
+,,脂质代谢/磷脂重塑,"SREBP, PPAR, LPC/LPA轴",表面活性物质合成,决定AT2功能与分化潜能,关键调控轴（TMEM164相关）
+,,线粒体/OXPHOS,"PGC1α, TFAM",能量供给,功能下降→分化障碍,能量限制因素
+,微环境/细胞通讯,ECM-receptor interaction,"COL1A1, ITGB1",基质重塑,ECM硬化→抑制分化,外源信号驱动
+,,PI3K-AKT-mTOR,"AKT1, mTOR",细胞生长/存活,抑制自噬，促进异常增殖,存活与扩增通路
+,,Hedgehog,"SHH, GLI1",发育信号,上皮-间质异常通讯,发育再激活
+,异常过渡态（KRT8⁺ DATP）,TGF-β + p53 + YAP + Hypoxia,"KRT8, CLDN4, LGALS3",损伤修复中间态,AT2无法向AT1分化,命运停滞状态
